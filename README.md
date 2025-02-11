@@ -1,0 +1,2 @@
+# DeepHybrid-IDS-Cyberattack-Classification
+ The DeepHybrid-IDS-Cyberattack-Classification repository presents an innovative hybrid deep learning framework designed for advanced cyberattack detection and classification in industrial IoT (IIoT) and cyber-physical systems (CPS). This repository integrates three core components—CNNs, LSTMs, and Transformers—into a unified architecture to leverage their complementary strengths for robust intrusion detection.
