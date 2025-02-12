@@ -1,0 +1,19 @@
+# Core Data Handling & Visualization
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# Machine Learning & Feature Selection
+scikit-learn==1.4.0
+lightgbm==4.1.0
+boruta==1.0.8
+
+# Deep Learning Framework
+tensorflow==2.15.0
+
+# Kaggle Integration
+kagglehub==0.2.1
+
+# Utilities & Clustering
+isolation-forest==0.2.7
